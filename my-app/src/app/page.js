@@ -7,7 +7,11 @@ export default function Home() {
         <title>Troy Bohrer Portfolio</title>
         <meta name="description" content=""></meta>
       </Head>
-      <div>Hello, World</div>
+      
+      <main>
+        <section className="bg-blue-700 min-h-screen"></section>
+      </main>
+
     </div>
   );
 }
